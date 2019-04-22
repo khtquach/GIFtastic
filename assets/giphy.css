@@ -1,0 +1,18 @@
+body {
+    background-image: url("../images/80s.jpg");
+    align-content: center;
+    background-repeat: repeat;
+}
+
+#instructions {
+    margin: 10px;
+    color: white;
+}
+
+.btn {
+    margin: 10px;
+}
+
+p {
+    color: white;
+}
